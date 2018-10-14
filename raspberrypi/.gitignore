@@ -1,0 +1,7 @@
+.firebaserc
+config.js
+database.rules.json
+firebase.json
+ir_code/
+node_modules/
+python-broadlink/
